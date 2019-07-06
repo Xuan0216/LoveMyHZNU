@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="347" viewBox="0 0 378 347">
+  <defs>
+    <filter id="矩形_14" x="0" y="0" width="378" height="347" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="实验室与设备管理处" transform="translate(107 12)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">实验室与设备管理处</tspan></text>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_14)">
+    <rect id="矩形_14-2" data-name="矩形 14" width="360" height="329" transform="translate(9 6)" fill="#f2f4fb"/>
+  </g>
+  <text id="受理机构" transform="translate(18 12)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">受理机构</tspan></text>
+  <text id="承诺件" transform="translate(107 45)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">承诺件</tspan></text>
+  <text id="事项性质" transform="translate(18 45)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">事项性质</tspan></text>
+  <text id="审批事项" transform="translate(107 78)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">审批事项</tspan></text>
+  <text id="办件类型" transform="translate(18 78)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">办件类型</tspan></text>
+  <text id="受理时间" transform="translate(18 111)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">受理时间</tspan></text>
+  <text id="否" transform="translate(107 144)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">否</tspan></text>
+  <text id="是否收费" transform="translate(18 144)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">是否收费</tspan></text>
+  <text id="教职工_校内单位" data-name="教职工，校内单位" transform="translate(107 177)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">教职工，校内单位</tspan></text>
+  <text id="服务对象" transform="translate(18 177)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">服务对象</tspan></text>
+  <text id="财务事项" transform="translate(107 210)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">财务事项</tspan></text>
+  <text id="事项主题" transform="translate(18 210)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">事项主题</tspan></text>
+  <text id="咨询电话" transform="translate(18 243)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">咨询电话</tspan></text>
+  <text id="_28860181" data-name="28860181" transform="translate(107 243)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">28860181</tspan></text>
+  <text id="监督电话" transform="translate(20 276)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">监督电话</tspan></text>
+  <text id="受理电话" transform="translate(20 309)" fill="#7f7f7f" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">受理电话</tspan></text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="52" viewBox="0 0 378 52">
+  <defs>
+    <filter id="矩形_28" x="0" y="0" width="378" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_28)">
+    <rect id="矩形_28-2" data-name="矩形 28" width="360" height="34" transform="translate(9 6)" fill="#f2f4fb"/>
+  </g>
+  <text id="申报材料" transform="translate(20 12)" fill="#fa5151" font-size="17" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="18">申报材料</tspan></text>
+  <text id="办事依据" transform="translate(92 12)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">办事依据</tspan></text>
+  <text id="办事流程" transform="translate(160 12)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">办事流程</tspan></text>
+  <text id="表格下载" transform="translate(230 12)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">表格下载</tspan></text>
+  <text id="常见问题" transform="translate(300 12)" font-size="16" font-family="PingFang SC Medium, PingFang SC" letter-spacing="-0.01em"><tspan x="0" y="17">常见问题</tspan></text>
+</svg>

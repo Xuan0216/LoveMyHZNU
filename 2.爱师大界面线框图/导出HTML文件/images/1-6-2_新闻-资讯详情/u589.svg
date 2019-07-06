@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="124.508" viewBox="0 0 414 124.508">
+  <rect id="矩形_14" data-name="矩形 14" width="414" height="124.508" fill="#c3cde8"/>
+  <text id="写留言" transform="translate(330 14)" fill="#fff" font-size="16" font-family="PingFang SC Medium, PingFang SC"><tspan x="0" y="17">写留言</tspan></text>
+  <text id="点赞_6_" data-name="点赞(6)" transform="translate(221 14)" fill="#fff" font-size="16" font-family="PingFang SC Medium, PingFang SC"><tspan x="0" y="17">点赞(6)</tspan></text>
+  <g id="点赞" transform="translate(196 13.705)">
+    <path id="路径_85" data-name="路径 85" d="M360.442,72.734h-4.949c1.918-7.083-1.321-7.444-1.321-7.444-1.373,0-1.088,1.086-1.192,1.266,0,3.464-3.679,6.178-3.679,6.178v9.822c0,.97,1.321,1.319,1.84,1.319h7.436c.7,0,1.27-1.835,1.27-1.835,1.84-6.256,1.84-8.117,1.84-8.117a1.123,1.123,0,0,0-1.244-1.189Zm0,0" transform="translate(-343.686 -65.29)" fill="#fff"/>
+    <path id="路径_86" data-name="路径 86" d="M82.926,423.3H79.963a.6.6,0,0,0-.621.6l.612,9.906a.618.618,0,0,0,.632.631H83.15c.534,0,.53-.417.53-.417v-9.97a.729.729,0,0,0-.753-.751Zm0,0" transform="translate(-79.342 -415.852)" fill="#fff"/>
+  </g>
+  <g id="笔" transform="translate(309 15.704)">
+    <path id="路径_87" data-name="路径 87" d="M194.388,129.775,199,134.387l-8.84,8.84-4.611-4.612Z" transform="translate(-183.242 -127.532)" fill="#fff"/>
+    <path id="路径_88" data-name="路径 88" d="M673.809,33.246l4.61,4.61-1.384,1.384-4.609-4.61,1.382-1.384Z" transform="translate(-660.82 -32.847)" fill="#fff"/>
+    <path id="路径_89" data-name="路径 89" d="M66.7,616.653l4.611,4.612-6.456,1.844Z" transform="translate(-64.853 -605.108)" fill="#fff"/>
+    <path id="路径_90" data-name="路径 90" d="M726.085,12.7l2.882,2.882a1.307,1.307,0,0,1-1.844,1.844l-2.882-2.882a1.307,1.307,0,0,1,1.844-1.844Z" transform="translate(-711.309 -12.356)" fill="#fff"/>
+  </g>
+</svg>
